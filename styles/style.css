@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+
+  .subtitle-controls {
+        margin-top: 10px;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        font-family: sans-serif;
+      }
+ 
+      .subtitle-controls button {
+        width: 32px;
+        height: 32px;
+        font-size: 18px;
+        cursor: pointer;
+        border: 1px solid #ccc;
+        border-radius: 6px;
+        background: #f0f0f0;
+      }
+ 
+      .subtitle-controls button:hover {
+        background: #ddd;
+      }
+ 
+      .subtitle-controls span {
+        font-size: 14px;
+        min-width: 50px;
+        text-align: center;
+      }
+ 
+      /* Stijl voor de ondertitels zelf */
+      ::cue {
+        font-size: var(--subtitle-size, 16px);
+      }
