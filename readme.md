@@ -63,21 +63,3 @@ usertest houden met mijn persoon en daarna feedback aanpassingen maken op mijn d
 | 11 | **Naam tonen als spreker niet in beeld is** | Zodat je altijd weet wie praat, ook als het gezicht niet zichtbaar is |
 | 12 | **Liedjesnaam tonen** | Welk nummer er op de achtergrond speelt |
  
----
- 
-## 🎨 Design Keuzes
- 
-### Typografie
-- **Sans-serif** (bijv. `Atkinson Hyperlegible`, `Verdana`) voor leesbaarheid
-- **Monospace** als alternatief voor technische of ondertitel-feel
-- Instelbaar lettertype via de UI
- 
-### Kleurgebruik
-- Elke spreker krijgt een **vaste kleur** (bijv. naam geel, tekst wit)
-- Kleuren geven ook **emotie en sfeer** weer
-- Achtergrond van ondertitel heeft voldoende contrast (minimaal WCAG AA)
- 
-### Stijl
-- **Minimalistisch** — geen afleidende elementen
-- Ondertitels staan altijd scherp en leesbaar in beeld
-- Optionele achtergrond-hue voor visuele sfeer
