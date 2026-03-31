@@ -7,15 +7,27 @@ body{
     display: grid;
     justify-content: center;
     align-items: center;
+    background-color: black;
 }
 
+video {
+    width: 60vw;
+    padding: 4rem;
+}
+
+track{
+  color: white;
+}
 
   .subtitle-controls {
-        margin-top: 10px;
         display: flex;
         align-items: center;
         gap: 10px;
         font-family: sans-serif;
+        background-color: white;
+        max-width: fit-content;
+        padding: 1rem;
+        align-items: center;
       }
  
       .subtitle-controls button {
@@ -41,4 +53,10 @@ body{
       /* Stijl voor de ondertitels zelf */
       ::cue {
         font-size: var(--subtitle-size, 16px);
+      }
+
+      /* Geluidsbeschrijvingen */
+      ::cue(i) {
+        color: #aaaaaa;
+        font-style: italic;
       }
