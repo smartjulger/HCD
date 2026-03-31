@@ -52,7 +52,10 @@ track{
  
       /* Stijl voor de ondertitels zelf */
       ::cue {
+        font-family: var(--subtitle-font, sans-serif);
         font-size: var(--subtitle-size, 16px);
+        color: white;
+        background: rgba(0, 0, 0, 0.75);
       }
 
       /* Geluidsbeschrijvingen */
