@@ -62,4 +62,16 @@ usertest houden met mijn persoon en daarna feedback aanpassingen maken op mijn d
 | 10 | **Equalizer / achtergrond hue** | Achtergrondkleur pulseert mee met het geluid of de sfeer |
 | 11 | **Naam tonen als spreker niet in beeld is** | Zodat je altijd weet wie praat, ook als het gezicht niet zichtbaar is |
 | 12 | **Liedjesnaam tonen** | Welk nummer er op de achtergrond speelt |
- 
+
+
+ ### wat heb ik gedaan vandaag?
+
+vandaag heb ik een user test gehouden en ben ik bezig geweest met de feedback weer te verwerken in het project.
+
+### wat heb ik geleerd vandaag
+
+vandaag heb ik geleerd dat het een heel ander gesprek is als iemand slecht horend is en wat goede design principes zijn voor mensen met een beperking.
+
+### wat ga ik volgende keer doen?
+
+Weer een user test doen 
