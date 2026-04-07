@@ -75,3 +75,42 @@ vandaag heb ik geleerd dat het een heel ander gesprek is als iemand slecht horen
 ### wat ga ik volgende keer doen?
 
 Weer een user test doen 
+
+
+## 07/04/2026
+
+### 2e usertest
+
+Bevindingen:
+
+voor de normalieteid voeg ook de uhm enzo toe te voegen.
+
+content zo duidelijk mogelijk. Vooral straight to the point.
+
+Hoe zou je het op mobiel laten zien en misschien een mobiele versie maken als er tijd is natuurlijk
+
+nadenken over sterkere worden of je die kan stylen en of dat echt nodig is
+
+wat vind ze van de hue als achtergrond 
+
+als het word ervaren als een geheel het moet iets toevoegen kleuren maken niet echt uit zolang het iets toevoegd. 
+
+misschien als je de film pauzeert dat je dan relevante informatie te zien krijgt van de film/serie
+
+Niet te druk!!!!!!!!!!!!!!!!!!!!!!
+
+tekst animatie is goed zolang het subtiel is maar niet te moet goed zichtbaar zijn
+
+achtergrond tekst bijv bij een piep dan met tekst laten spelen irritante geluiden een andere kleur geven en een full expierience mode toevoegen die aan en uit gezet kan worden
+
+### wat heb ik vandaag gedaan?
+
+vandaag heb ik een usertest gehouden en heb ik wat extra styling toegevoegd
+
+### wat heb ik geleerd vandaag?
+
+niet veel geleerd vandaag maar wel weer wat de user extra wilt hebben
+
+### wat ga ik volgende keer doen?
+
+volgende keer ga ik bezig met de feedback verwerken binnen het project
