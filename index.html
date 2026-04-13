@@ -7,38 +7,42 @@
     <link rel="stylesheet" href="styles/style.css" />
   </head>
   <body>
-    <video id="video" controls preload="metadata">
-      <source src="mp4/the-office-clips.mp4" type="video/mp4" />
-      <track
-        label="Nederlands"
-        kind="subtitles"
-        srclang="nl"
-        src="mp4/the-office-clips.vtt"
-        default
-      />
-      <track
-        label="English"
-        kind="subtitles"
-        srclang="en"
-        src="mp4/the-office-clips-en.vtt"
-      />
-    </video>
+    <div class="video-wrapper" id="video-wrapper">
+      <video id="video" controls preload="metadata">
+        <source src="mp4/blade.mp4" type="video/mp4" />
+        <track
+          label="Nederlands"
+          kind="subtitles"
+          srclang="nl"
+          src="mp4/blade-nl.vtt"
+          default
+        />
+        <track
+          label="English"
+          kind="subtitles"
+          srclang="en"
+          src="mp4/blade.vtt"
+        />
+      </video>
 
-    <div class="subtitle-controls">
-      <label>Ondertitel grootte:</label>
-      <button onclick="changeSize(-2)">−</button>
-      <span id="sizeLabel">30px</span>
-      <button onclick="changeSize(2)">+</button>
-      <label>Font:</label>
-      <select onchange="changeFont(this.value)">
-        <option value="sans-serif">Sans-serif</option>
-        <option value="monospace">Monospace</option>
-      </select>
-      <label>Taal:</label>
-      <select onchange="changeLanguage(this.value)">
-        <option value="nl">Nederlands</option>
-        <option value="en">English</option>
-      </select>
+      <div id="sound-text">[ piep ]</div>
+
+      <div class="subtitle-controls">
+        <label>Ondertitel grootte:</label>
+        <button onclick="changeSize(-2)">−</button>
+        <span id="sizeLabel">30px</span>
+        <button onclick="changeSize(2)">+</button>
+        <label>Font:</label>
+        <select onchange="changeFont(this.value)">
+          <option value="sans-serif">Sans-serif</option>
+          <option value="monospace">Monospace</option>
+        </select>
+        <label>Taal:</label>
+        <select onchange="changeLanguage(this.value)">
+          <option value="nl">Nederlands</option>
+          <option value="en">English</option>
+        </select>
+      </div>
     </div>
     <script src="main.js"></script>
   </body>

@@ -81,3 +81,7 @@ usertest houden met mijn persoon en daarna feedback aanpassingen maken op mijn d
 - **Minimalistisch** — geen afleidende elementen
 - Ondertitels staan altijd scherp en leesbaar in beeld
 - Optionele achtergrond-hue voor visuele sfeer
+
+
+
+<!-- https://www.youtube.com/watch?v=vrP-_T-h9YM&t=114s -->
