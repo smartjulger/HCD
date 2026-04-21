@@ -114,3 +114,11 @@ niet veel geleerd vandaag maar wel weer wat de user extra wilt hebben
 ### wat ga ik volgende keer doen?
 
 volgende keer ga ik bezig met de feedback verwerken binnen het project
+
+
+## week 2 
+
+Deze week heb ik de basis afgemaakt en wat styling toegevoegd aan mijn transcriptie en Nog een test met Darice dit was weer heel nutig en kwam veel informatie weer uit van wat ze wel en niet wilde. Zo kan je nu de tekst grote aanpassen en naar Nederlandse of engelse ondertiteling switchen en kan je nu een font kiezen die je wilt.
+
+
+## 
