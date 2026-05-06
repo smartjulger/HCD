@@ -190,6 +190,7 @@ Dit gaat tegen all mijn princiepes aan zoals het maken van de piep normaal hou j
 ## bronnen 
 
 blade runner clip
-<!-- https://www.youtube.com/watch?v=vrP-_T-h9YM&t=114s -->
+
+https://www.youtube.com/watch?v=vrP-_T-h9YM&t=114s 
 
 
