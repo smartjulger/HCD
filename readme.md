@@ -62,6 +62,18 @@ usertest houden met mijn persoon en daarna feedback aanpassingen maken op mijn d
 | 10 | **Equalizer / achtergrond hue** | Achtergrondkleur pulseert mee met het geluid of de sfeer |
 | 11 | **Naam tonen als spreker niet in beeld is** | Zodat je altijd weet wie praat, ook als het gezicht niet zichtbaar is |
 | 12 | **Liedjesnaam tonen** | Welk nummer er op de achtergrond speelt |
+ 
+---
+ 
+ ## Week 1
+
+ Deze week heb ik mijn eerste test gehouden Hierdoor werd de opdracht een stuk duidelijker en kreeg ik een idee in welke richting ik wil gaan. Ik heb ervoor gekozen om een video speler te gaan maken en de clip die ik hiervoor heb gekozen is een clip van the office.  Uit de test kwam wat voor lettertype Darice fijn vind namelijk Sans-serif en monospace font Hiervoor heb ik een optie toegevoegd zodat je kan wisselen van fonts.  ![alt text](image.png)
+ 
+
+## 07/04/2026
+
+
+### 2e test met darice (07/04/2026)
 
 
  ### wat heb ik gedaan vandaag?
@@ -103,6 +115,22 @@ tekst animatie is goed zolang het subtiel is maar niet te moet goed zichtbaar zi
 
 achtergrond tekst bijv bij een piep dan met tekst laten spelen irritante geluiden een andere kleur geven en een full expierience mode toevoegen die aan en uit gezet kan worden
 
+
+
+
+
+## 3e test
+
+piep geluid geel maken zodat het nog irritanter is maar voor de rest is het wel duidelijk dat het een irritante piep is en miss kijken naar hue grote.
+
+## 4e test 
+
+gele piep is beter. Kijkt niet echt naar de hue. 
+
+maar kwam uit dat het goed is.
+
+
+<!-- https://www.youtube.com/watch?v=vrP-_T-h9YM&t=114s -->
 ### wat heb ik vandaag gedaan?
 
 vandaag heb ik een usertest gehouden en heb ik wat extra styling toegevoegd
