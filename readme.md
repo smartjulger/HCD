@@ -75,6 +75,26 @@ usertest houden met mijn persoon en daarna feedback aanpassingen maken op mijn d
 
 ### 2e test met darice (07/04/2026)
 
+
+ ### wat heb ik gedaan vandaag?
+
+vandaag heb ik een user test gehouden en ben ik bezig geweest met de feedback weer te verwerken in het project.
+
+### wat heb ik geleerd vandaag
+
+vandaag heb ik geleerd dat het een heel ander gesprek is als iemand slecht horend is en wat goede design principes zijn voor mensen met een beperking.
+
+### wat ga ik volgende keer doen?
+
+Weer een user test doen 
+
+
+## 07/04/2026
+
+### 2e usertest
+
+Bevindingen:
+
 voor de normalieteid voeg ook de uhm enzo toe te voegen.
 
 content zo duidelijk mogelijk. Vooral straight to the point.
@@ -111,3 +131,22 @@ maar kwam uit dat het goed is.
 
 
 <!-- https://www.youtube.com/watch?v=vrP-_T-h9YM&t=114s -->
+### wat heb ik vandaag gedaan?
+
+vandaag heb ik een usertest gehouden en heb ik wat extra styling toegevoegd
+
+### wat heb ik geleerd vandaag?
+
+niet veel geleerd vandaag maar wel weer wat de user extra wilt hebben
+
+### wat ga ik volgende keer doen?
+
+volgende keer ga ik bezig met de feedback verwerken binnen het project
+
+
+## week 2 
+
+Deze week heb ik de basis afgemaakt en wat styling toegevoegd aan mijn transcriptie en Nog een test met Darice dit was weer heel nutig en kwam veel informatie weer uit van wat ze wel en niet wilde. Zo kan je nu de tekst grote aanpassen en naar Nederlandse of engelse ondertiteling switchen en kan je nu een font kiezen die je wilt.
+
+
+## 
