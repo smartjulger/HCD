@@ -30,8 +30,8 @@ video.addEventListener('timeupdate', () => {
 
   if (t >= GLOW_START && t < GLOW_END) {
     const progress = (t - GLOW_START) / (GLOW_END - GLOW_START); // 0 → 1
-    const spread = Math.round(progress * 60);
-    const blur   = Math.round(progress * 80);
+    const spread = Math.round(progress * 150);
+    const blur   = Math.round(progress * 200);
     const opacity = (progress * 0.85).toFixed(3);
 
     wrapper.style.boxShadow =

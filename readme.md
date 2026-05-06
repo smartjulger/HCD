@@ -65,23 +65,49 @@ usertest houden met mijn persoon en daarna feedback aanpassingen maken op mijn d
  
 ---
  
-## 🎨 Design Keuzes
- 
-### Typografie
-- **Sans-serif** (bijv. `Atkinson Hyperlegible`, `Verdana`) voor leesbaarheid
-- **Monospace** als alternatief voor technische of ondertitel-feel
-- Instelbaar lettertype via de UI
- 
-### Kleurgebruik
-- Elke spreker krijgt een **vaste kleur** (bijv. naam geel, tekst wit)
-- Kleuren geven ook **emotie en sfeer** weer
-- Achtergrond van ondertitel heeft voldoende contrast (minimaal WCAG AA)
- 
-### Stijl
-- **Minimalistisch** — geen afleidende elementen
-- Ondertitels staan altijd scherp en leesbaar in beeld
-- Optionele achtergrond-hue voor visuele sfeer
+ ## Week 1
 
+ Deze week heb ik mijn eerste test gehouden Hierdoor werd de opdracht een stuk duidelijker en kreeg ik een idee in welke richting ik wil gaan. Ik heb ervoor gekozen om een video speler te gaan maken en de clip die ik hiervoor heb gekozen is een clip van the office.  Uit de test kwam wat voor lettertype Darice fijn vind namelijk Sans-serif en monospace font Hiervoor heb ik een optie toegevoegd zodat je kan wisselen van fonts.  ![alt text](image.png)
+ 
+
+## 07/04/2026
+
+
+### 2e test met darice (07/04/2026)
+
+voor de normalieteid voeg ook de uhm enzo toe te voegen.
+
+content zo duidelijk mogelijk. Vooral straight to the point.
+
+Hoe zou je het op mobiel laten zien en misschien een mobiele versie maken als er tijd is natuurlijk
+
+nadenken over sterkere worden of je die kan stylen en of dat echt nodig is
+
+wat vind ze van de hue als achtergrond 
+
+als het word ervaren als een geheel het moet iets toevoegen kleuren maken niet echt uit zolang het iets toevoegd. 
+
+misschien als je de film pauzeert dat je dan relevante informatie te zien krijgt van de film/serie
+
+Niet te druk!!!!!!!!!!!!!!!!!!!!!!
+
+tekst animatie is goed zolang het subtiel is maar niet te moet goed zichtbaar zijn
+
+achtergrond tekst bijv bij een piep dan met tekst laten spelen irritante geluiden een andere kleur geven en een full expierience mode toevoegen die aan en uit gezet kan worden
+
+
+
+
+
+## 3e test
+
+piep geluid geel maken zodat het nog irritanter is maar voor de rest is het wel duidelijk dat het een irritante piep is en miss kijken naar hue grote.
+
+## 4e test 
+
+gele piep is beter. Kijkt niet echt naar de hue. 
+
+maar kwam uit dat het goed is.
 
 
 <!-- https://www.youtube.com/watch?v=vrP-_T-h9YM&t=114s -->
